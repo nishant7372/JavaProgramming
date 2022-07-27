@@ -1,2 +1,6 @@
 # Project exclude paths
 /bin/
+/.classpath
+/.project
+/JavaProgramming.iml
+/.settings/org.eclipse.jdt.core.prefs
